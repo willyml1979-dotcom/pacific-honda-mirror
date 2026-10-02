@@ -1,0 +1,261 @@
+{
+  "dealership": "Pacific Honda",
+  "generated_at": "2026-10-02T16:46:15",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
+      "vin": "2HGFE4F85SH005131",
+      "stock": "H126271",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/6e29edba704c.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:32:42",
+      "odometer_km": 12366,
+      "condition": "used"
+    },
+    {
+      "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
+      "vin": "2HGFE4F85SH006294",
+      "stock": "H126294",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/7f15ad13dc3c.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39222450",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39222450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:33:03",
+      "odometer_km": 25000,
+      "condition": "used"
+    },
+    {
+      "name": "Civic LX CVT Sedan2025 Honda",
+      "vin": "2HGFE2F22SH105980",
+      "stock": "H126149",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/c3d43d5af62f.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2025-honda-civic-id39043161",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2025-honda-civic-id39043161?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:33:22",
+      "odometer_km": 18600,
+      "condition": "used"
+    },
+    {
+      "name": "Civic LX CVT Sedan2025 Honda",
+      "vin": "2HGFE2F27SH103996",
+      "stock": "H126247",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/341d205d5bf7.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2025-honda-civic-id39043166",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2025-honda-civic-id39043166?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:33:43",
+      "odometer_km": 4122,
+      "condition": "used"
+    },
+    {
+      "name": "Civic Sport CVT Sedan2025 Honda",
+      "vin": "2HGFE2F52SH102541",
+      "stock": "H127120",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/e9e0ec16805d.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2025-honda-civic-id39123912",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2025-honda-civic-id39123912?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:34:03",
+      "odometer_km": 25190,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2026 Honda",
+      "vin": "2HKRS6H75TH223986",
+      "stock": "H126108",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/dcb228d3fc31.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39158430",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39158430?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:34:21",
+      "odometer_km": 4000,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2026 Honda",
+      "vin": "2HKRS6H78TH208513",
+      "stock": "H126127",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/3894318bd38a.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39191898",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39191898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:34:41",
+      "odometer_km": 68824,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Sport AWD2025 Honda",
+      "vin": "2HKRS4H56SH105429",
+      "stock": "H126102",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/14764600577e.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:35:00",
+      "odometer_km": 18395,
+      "condition": "used"
+    },
+    {
+      "name": "HR-V LX 2WD CVT2025 Honda",
+      "vin": "3CZRZ1H31SM101379",
+      "stock": "H126269",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/cd771b61be27.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39108764",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39108764?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:35:21",
+      "odometer_km": 53320,
+      "condition": "used"
+    },
+    {
+      "name": "Ridgeline Black Edition AWD2025 Honda",
+      "vin": "5FPYK3F81SB502426",
+      "stock": "H117987",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/fafff26e5e16.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39199911",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39199911?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:35:39",
+      "odometer_km": 48655,
+      "condition": "used"
+    },
+    {
+      "name": "Ridgeline Black Edition AWD2025 Honda",
+      "vin": "5FPYK3F82SB501690",
+      "stock": "H117987",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/2e6f7ddbe01e.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39247280",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39247280?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:36:02",
+      "odometer_km": 15682,
+      "condition": "used"
+    },
+    {
+      "name": "Ridgeline Black Edition AWD2025 Honda",
+      "vin": "5FPYK3F80SB503325",
+      "stock": "H126169",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/8cf469f98ea5.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39267714",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39267714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:36:21",
+      "odometer_km": 16525,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H78VH200382",
+      "stock": "H127103",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/9b5c4383eb95.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39163790?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39163790?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:42:23",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H51VH200268",
+      "stock": "H127102",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/4be510d1b13b.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39171155?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39171155?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:42:43",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H76VH200381",
+      "stock": "H127103",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/9a2c2c5712ad.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191893?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191893?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:43:02",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H76VH200378",
+      "stock": "H127103",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/29179292b34e.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191896?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191896?paymentOptionTerm=40&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:43:23",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H92VH200220",
+      "stock": "H127102",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/b34ee66d6dbd.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191897?paymentOptionTerm=28&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39191897?paymentOptionTerm=28&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:43:41",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V LX 4WD2027 Honda",
+      "vin": "3CZRZ2H35VM102609",
+      "stock": "H127126",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/3e78ed13cd1d.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38691338?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38691338?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:43:59",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H51VM101023",
+      "stock": "H127110",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/86241bb237ed.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38735219?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38735219?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:44:20",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V LX 4WD2027 Honda",
+      "vin": "3CZRZ2H34VM103251",
+      "stock": "H127132",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/13b4c872e8a0.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38792527?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38792527?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:44:40",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H5XVM104762",
+      "stock": "H127147",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/63a129a2afa8.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953768?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38953768?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:45:00",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V SPORT2027 Honda",
+      "vin": "3CZRZ2H52VM104772",
+      "stock": "H127147",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/4b8911ac0498.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959499?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959499?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:45:20",
+      "condition": "new"
+    },
+    {
+      "name": "HR-V LX 4WD2027 Honda",
+      "vin": "3CZRZ2H31VM104969",
+      "stock": "H127149",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/b15eecf17ab2.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959502?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/hr-v/2027-honda-hr-v-id38959502?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:45:40",
+      "condition": "new"
+    },
+    {
+      "name": "Odyssey Black Edition2027 Honda",
+      "vin": "5FNRL6H01VB500117",
+      "stock": "H127101",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/5919a89e9e43.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39158435?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39158435?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:46:00",
+      "condition": "new"
+    }
+  ]
+}

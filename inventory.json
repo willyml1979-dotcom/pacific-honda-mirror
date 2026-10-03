@@ -1,6 +1,6 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-10-02T19:15:50",
+  "generated_at": "2026-10-03T16:43:17",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -18,13 +18,13 @@
     },
     {
       "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
-      "vin": "2HGFE4F85SH006294",
-      "stock": "H126294",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/7f15ad13dc3c.html",
-      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39222450",
-      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39222450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:33:03",
-      "odometer_km": 25000,
+      "vin": "2HGFE4F83SH004270",
+      "stock": "H126185",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/d7657f5a5df5.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39274583",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39274583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T16:37:51",
+      "odometer_km": 15000,
       "condition": "used"
     },
     {
@@ -61,14 +61,14 @@
       "condition": "used"
     },
     {
-      "name": "CR-V Hybrid EX-L AWD2026 Honda",
-      "vin": "2HKRS6H75TH223986",
-      "stock": "H126108",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/dcb228d3fc31.html",
-      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39158430",
-      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39158430?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:34:21",
-      "odometer_km": 4000,
+      "name": "Civic Type R2025 Honda",
+      "vin": "JHMFL5G49SX800053",
+      "stock": "H117987",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/7bc1839982c3.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2025-honda-civic-id39247282",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2025-honda-civic-id39247282?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T16:38:10",
+      "odometer_km": 5500,
       "condition": "used"
     },
     {

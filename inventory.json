@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-10-04T22:06:45",
-  "vehicle_count": 903,
+  "generated_at": "2026-10-06T09:56:55",
+  "vehicle_count": 925,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/461585e2f25d.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/adx/2025-acura-adx-id38726369",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/adx/2025-acura-adx-id38726369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:04:42",
+      "last_verified": "2026-10-06T09:56:03",
       "odometer_km": 9464,
       "condition": "used"
     },
@@ -23,7 +23,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/3f00b1df37b4.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:05:02",
+      "last_verified": "2026-10-06T09:56:24",
       "odometer_km": 22700,
       "condition": "used"
     },
@@ -34,7 +34,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/3806ff3d3fc4.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/adx/2025-acura-adx-id39254462",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/adx/2025-acura-adx-id39254462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:05:21",
+      "last_verified": "2026-10-06T09:56:43",
       "odometer_km": 33213,
       "condition": "used"
     },
@@ -105,6 +105,29 @@
       "condition": "used"
     },
     {
+      "name": "Integra Type S Manual2026 Acura",
+      "vin": "19UDE5G98TA800226",
+      "stock": "H22F001",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/f70d98bf3571.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:44:56",
+      "condition": "used"
+    },
+    {
+      "name": "MDX Elite 6sp at2013 Acura",
+      "vin": "2HNYD2H69DH000599",
+      "stock": "267102B",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/006a6f0d4d9b.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:45:15",
+      "price": 15750.0,
+      "price_currency": "CAD",
+      "odometer_km": 150135,
+      "condition": "used"
+    },
+    {
       "name": "MDX Platinum Elite SH-AWD2023 Acura",
       "vin": "5J8YE1H8XPL800514",
       "stock": "A22F003",
@@ -124,6 +147,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39069290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T17:08:00",
       "odometer_km": 76021,
+      "condition": "used"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H07SL800926",
+      "stock": "A260190",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/502cf934f58e.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:45:33",
+      "odometer_km": 25703,
       "condition": "used"
     },
     {
@@ -1154,6 +1188,17 @@
       "condition": "used"
     },
     {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Elevation2024 GMC",
+      "vin": "3GTUUCE81RG371389",
+      "stock": "MB12C01",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/162fccefc443.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39309147",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39309147?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:45:51",
+      "odometer_km": 33470,
+      "condition": "used"
+    },
+    {
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
       "vin": "1GTUUHE89TZ106532",
       "stock": "H32C000",
@@ -1308,6 +1353,17 @@
       "condition": "used"
     },
     {
+      "name": "Civic Hybrid Sport Touring eCVT Sedan2025 Honda",
+      "vin": "JHMFL4H93SX800005",
+      "stock": "A260126",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/da2af200e34f.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39309040",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39309040?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:46:10",
+      "odometer_km": 17135,
+      "condition": "used"
+    },
+    {
       "name": "Civic Hybrid Sport eCVT Sedan2026 Honda",
       "vin": "2HGFE4F82TH001720",
       "stock": "A252001",
@@ -1329,6 +1385,19 @@
       "price": 12995.0,
       "price_currency": "CAD",
       "odometer_km": 154897,
+      "condition": "used"
+    },
+    {
+      "name": "Civic Sedan LX 5AT2013 Honda",
+      "vin": "2HGFB2F40DH107837",
+      "stock": "H126252",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/bbcca66703a6.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2013-honda-civic-id39140074",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/civic/2013-honda-civic-id39140074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:46:29",
+      "price": 8500.0,
+      "price_currency": "CAD",
+      "odometer_km": 224748,
       "condition": "used"
     },
     {
@@ -1649,6 +1718,17 @@
       "condition": "used"
     },
     {
+      "name": "CR-V Hybrid Touring AWD2024 Honda",
+      "vin": "2HKRS6H91RH212090",
+      "stock": "26H1131",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/6643942bd6e8.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39308962",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39308962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:46:47",
+      "odometer_km": 64412,
+      "condition": "used"
+    },
+    {
       "name": "CR-V Hybrid EX-L AWD2025 Honda",
       "vin": "2HKRS6H77SH209327",
       "stock": "26H979A",
@@ -1690,6 +1770,28 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39289841?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T17:52:23",
       "odometer_km": 80673,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H7XSH207295",
+      "stock": "H261255",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/0a44b8cf511b.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39308889",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39308889?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:47:06",
+      "odometer_km": 22774,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Hybrid Touring AWD2025 Honda",
+      "vin": "2HKRS6H96SH232499",
+      "stock": "A262078",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/85547d6e91c3.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39309101",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39309101?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:47:26",
+      "odometer_km": 17621,
       "condition": "used"
     },
     {
@@ -2101,6 +2203,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/passport/2026-honda-passport-id39207195?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:03:34",
       "odometer_km": 8096,
+      "condition": "used"
+    },
+    {
+      "name": "Passport TrailSport Touring Blackout AWD2026 Honda",
+      "vin": "5FNYF9H80TB506921",
+      "stock": "A22F002",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/798cc4d9b640.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/passport/2026-honda-passport-id39308954",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/passport/2026-honda-passport-id39308954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:47:45",
+      "odometer_km": 8135,
       "condition": "used"
     },
     {
@@ -2540,6 +2653,17 @@
       "condition": "used"
     },
     {
+      "name": "F-PACE P575 SVR 575 Edition Auto2025 Jaguar",
+      "vin": "SADCZ2FE3SA752374",
+      "stock": "JL11708",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/6681ba695d16.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/jaguar/f-pace/2025-jaguar-f-pace-id39309085",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/jaguar/f-pace/2025-jaguar-f-pace-id39309085?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:48:04",
+      "odometer_km": 25694,
+      "condition": "used"
+    },
+    {
       "name": "F-Type Convertible P450 R-Dynamic AWD2023 Jaguar",
       "vin": "SAJD85EE6PCK83042",
       "stock": "JL12B08",
@@ -2667,6 +2791,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/kia/ev9/2024-kia-ev9-id39207291?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:19:35",
       "odometer_km": 30385,
+      "condition": "used"
+    },
+    {
+      "name": "Seltos SX Turbo AWD w/Black Interior2024 Kia",
+      "vin": "KNDETCA78R7556667",
+      "stock": "A262102",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/149bfe3ce1aa.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/kia/seltos/2024-kia-seltos-id39309102",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/kia/seltos/2024-kia-seltos-id39309102?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:48:25",
+      "odometer_km": 33495,
       "condition": "used"
     },
     {
@@ -3411,6 +3546,17 @@
       "condition": "used"
     },
     {
+      "name": "UXh 300h AWD2025 Lexus",
+      "vin": "JTHUCJDHXS2010300",
+      "stock": "A113012",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/39c31b9cbcf4.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/lexus/uxh/2025-lexus-uxh-id39297685",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/lexus/uxh/2025-lexus-uxh-id39297685?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:48:44",
+      "odometer_km": 13970,
+      "condition": "used"
+    },
+    {
       "name": "Grecale Modena Limited Edition Canada2023 Maserati",
       "vin": "ZN682AVM7P7412060",
       "stock": "JL12B07",
@@ -3683,6 +3829,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/cle300/2024-mercedes-benz-cle300-id39264302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:50:04",
       "odometer_km": 25000,
+      "condition": "used"
+    },
+    {
+      "name": "CLE300 4MATIC Cabriolet2026 Mercedes-Benz",
+      "vin": "W1KMK4HB8TF090417",
+      "stock": "MB31705",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/75f4059859e2.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/cle300/2026-mercedes-benz-cle300-id39309122",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/cle300/2026-mercedes-benz-cle300-id39309122?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:49:04",
+      "odometer_km": 18005,
       "condition": "used"
     },
     {
@@ -4621,6 +4778,17 @@
       "condition": "used"
     },
     {
+      "name": "Outlander ES S-AWC2024 Mitsubishi",
+      "vin": "JA4J4UA89RZ612172",
+      "stock": "H126212",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/578f89c708c1.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/mitsubishi/outlander/2024-mitsubishi-outlander-id38931043",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mitsubishi/outlander/2024-mitsubishi-outlander-id38931043?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:49:24",
+      "odometer_km": 24355,
+      "condition": "used"
+    },
+    {
       "name": "Ariya Premiere e-4orce2023 Nissan",
       "vin": "JN1DF0CD5PM704103",
       "stock": "N212035",
@@ -4705,6 +4873,17 @@
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/murano/2025-nissan-murano-id38541368",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/murano/2025-nissan-murano-id38541368?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:19:59",
+      "condition": "used"
+    },
+    {
+      "name": "Murano AWD Platinum2025 Nissan",
+      "vin": "5N1AZ3DT6SC104456",
+      "stock": "MB12C01",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/4a452d539a33.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/murano/2025-nissan-murano-id39309144",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/murano/2025-nissan-murano-id39309144?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:49:42",
+      "odometer_km": 12541,
       "condition": "used"
     },
     {
@@ -4815,6 +4994,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39253386?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:23:23",
       "odometer_km": 28167,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue AWD SV Moonroof2024 Nissan",
+      "vin": "JN8BT3BB9RW177757",
+      "stock": "N212035",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/f68c771602dc.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39308341",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39308341?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:50:01",
+      "odometer_km": 7879,
       "condition": "used"
     },
     {
@@ -5919,6 +6109,17 @@
     },
     {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDC2TH462482",
+      "stock": "S115017",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/47766305e881.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39297764",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39297764?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:50:20",
+      "odometer_km": 7921,
+      "condition": "used"
+    },
+    {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC9TH462382",
       "stock": "S115017",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/a9b041165082.html",
@@ -5981,6 +6182,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302960?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:58:38",
       "odometer_km": 11421,
+      "condition": "used"
+    },
+    {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDC5TH464579",
+      "stock": "S115017",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/65164bd7317a.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39309104",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39309104?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:50:40",
+      "odometer_km": 5754,
       "condition": "used"
     },
     {
@@ -6160,6 +6372,17 @@
       "condition": "used"
     },
     {
+      "name": "Model X Plaid2024 Tesla",
+      "vin": "7SAXCBE65RF439839",
+      "stock": "H27086A",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/434613bc5751.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/tesla/model-x/2024-tesla-model-x-id39308887",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/tesla/model-x/2024-tesla-model-x-id39308887?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:51:00",
+      "odometer_km": 27199,
+      "condition": "used"
+    },
+    {
       "name": "Camry Hybrid SE2023 Toyota",
       "vin": "4T1B21HK8PU019683",
       "stock": "2550396",
@@ -6179,6 +6402,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T20:04:38",
       "odometer_km": 41652,
+      "condition": "used"
+    },
+    {
+      "name": "Corolla Hybrid LE AWD2025 Toyota",
+      "vin": "JTDBDMHE7S3017285",
+      "stock": "L26183B",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/39ac9175e8ec.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/corolla-hybrid/2025-toyota-corolla-hybrid-id39302953",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/corolla-hybrid/2025-toyota-corolla-hybrid-id39302953?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:51:20",
+      "odometer_km": 59349,
       "condition": "used"
     },
     {
@@ -6289,6 +6523,19 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/land-cruiser/2025-toyota-land-cruiser-id39060373?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T20:07:57",
       "odometer_km": 23688,
+      "condition": "used"
+    },
+    {
+      "name": "Matrix 5-door FWD 4A2003 Toyota",
+      "vin": "2T1KR32E93C763041",
+      "stock": "H126296",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/896b3fe57380.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/matrix/2003-toyota-matrix-id39308828",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/toyota/matrix/2003-toyota-matrix-id39308828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T09:51:40",
+      "price": 7550.0,
+      "price_currency": "CAD",
+      "odometer_km": 299999,
       "condition": "used"
     },
     {

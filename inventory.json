@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-10-06T09:56:55",
-  "vehicle_count": 925,
+  "generated_at": "2026-10-06T10:11:41",
+  "vehicle_count": 937,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -6851,7 +6851,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/24125ca7d428.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id38293723",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id38293723?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T20:28:27",
+      "last_verified": "2026-10-06T10:10:48",
       "condition": "new"
     },
     {
@@ -6861,7 +6861,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/511f78efc930.html",
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id38348371",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id38348371?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T20:28:46",
+      "last_verified": "2026-10-06T10:11:09",
       "condition": "new"
     },
     {
@@ -7055,6 +7055,26 @@
       "condition": "new"
     },
     {
+      "name": "Accord Hybrid SPORT-L2026 Honda",
+      "vin": "1HGCY2F76TA802476",
+      "stock": "H261286",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/36de059af3b2.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39297511",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39297511?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:03:02",
+      "condition": "new"
+    },
+    {
+      "name": "Accord Hybrid TOURING2026 Honda",
+      "vin": "1HGCY2F84TA802422",
+      "stock": "H261287",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/f7e05585c1a4.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39297514",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/accord-hybrid/2026-honda-accord-hybrid-id39297514?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:03:23",
+      "condition": "new"
+    },
+    {
       "name": "Civic Hatchback Sport CVT2026 Honda",
       "vin": "19XFL2H81TE400510",
       "stock": "26H1099",
@@ -7072,6 +7092,16 @@
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/civic-hatchback/2026-honda-civic-hatchback-id39260928",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/civic-hatchback/2026-honda-civic-hatchback-id39260928?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T20:35:33",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hatchback Sport CVT2026 Honda",
+      "vin": "19XFL2H81TE400765",
+      "stock": "H261285",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/8eb0dff3065c.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/civic-hatchback/2026-honda-civic-hatchback-id39297516",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/civic-hatchback/2026-honda-civic-hatchback-id39297516?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:03:43",
       "condition": "new"
     },
     {
@@ -8100,6 +8130,16 @@
       "condition": "new"
     },
     {
+      "name": "CR-V Hybrid TOURING HYBRID2026 Honda",
+      "vin": "2HKRS6H92TH250015",
+      "stock": "H261288",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/4d2ddfc35272.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39297521",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39297521?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:04:03",
+      "condition": "new"
+    },
+    {
       "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
       "vin": "2HKRS6H50VH200052",
       "stock": "27H034",
@@ -8617,6 +8657,66 @@
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39274676",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39274676?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T21:23:35",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H5XVH203864",
+      "stock": "H27088",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/8a0b373ec78e.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297509",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297509?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:04:21",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H98VH204188",
+      "stock": "H27090",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/d469d928a147.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297517",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297517?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:04:39",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H96VH204190",
+      "stock": "H27091",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/493643b2c990.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297518",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297518?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:04:59",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H93VH202672",
+      "stock": "H27089",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/b69384ee78c0.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297519",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39297519?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:05:19",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid SPORT HYBRID2027 Honda",
+      "vin": "2HKRS6H57VH201411",
+      "stock": "H27058",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/7554237967b8.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302882",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:05:38",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
+      "vin": "2HKRS6H96VH202701",
+      "stock": "27H097",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/e5eabff11d0d.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302910",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/cr-v-hybrid/2027-honda-cr-v-hybrid-id39302910?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:05:58",
       "condition": "new"
     },
     {
@@ -9688,6 +9788,26 @@
       "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39192017",
       "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39192017?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T21:55:43",
+      "condition": "new"
+    },
+    {
+      "name": "Odyssey Sport-L2027 Honda",
+      "vin": "5FNRL6H7XVB500940",
+      "stock": "H27093",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/a16d19c91f63.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39297512",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39297512?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:06:16",
+      "condition": "new"
+    },
+    {
+      "name": "Odyssey Sport-L2027 Honda",
+      "vin": "5FNRL6H7XVB500937",
+      "stock": "H27092",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/99e4568b8e15.html",
+      "source_url": "https://www.northshorehonda.ca/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39297520",
+      "dealer_url": "https://www.northshorehonda.ca/en/new-inventory/honda/odyssey/2027-honda-odyssey-id39297520?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T10:06:34",
       "condition": "new"
     },
     {

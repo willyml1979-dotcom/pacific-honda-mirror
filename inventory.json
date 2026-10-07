@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-10-06T10:11:41",
-  "vehicle_count": 937,
+  "generated_at": "2026-10-07T10:23:35",
+  "vehicle_count": 951,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -45,7 +45,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/80a355689d8f.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2024-acura-integra-id38746828",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2024-acura-integra-id38746828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:05:40",
+      "last_verified": "2026-10-07T10:18:55",
       "odometer_km": 41796,
       "condition": "used"
     },
@@ -56,7 +56,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/50b2ddc411cd.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:06:00",
+      "last_verified": "2026-10-07T10:19:15",
       "odometer_km": 22763,
       "condition": "used"
     },
@@ -67,7 +67,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/818532435973.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:06:19",
+      "last_verified": "2026-10-07T10:19:33",
       "odometer_km": 12704,
       "condition": "used"
     },
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/30b545d01302.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2025-acura-integra-id39223219",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2025-acura-integra-id39223219?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:06:39",
+      "last_verified": "2026-10-07T10:19:53",
       "odometer_km": 10488,
       "condition": "used"
     },
@@ -89,7 +89,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/3192f51700ab.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2025-acura-integra-id39237438",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2025-acura-integra-id39237438?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:06:59",
+      "last_verified": "2026-10-07T10:20:11",
       "odometer_km": 5038,
       "condition": "used"
     },
@@ -100,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/87859fe85f00.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:07:19",
+      "last_verified": "2026-10-07T10:20:32",
       "odometer_km": 5432,
       "condition": "used"
     },
@@ -134,7 +134,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/a0c1f2efb221.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39056693",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39056693?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:07:40",
+      "last_verified": "2026-10-07T10:20:51",
       "odometer_km": 44050,
       "condition": "used"
     },
@@ -145,7 +145,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/c7df2f3101d3.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39069290",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39069290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:08:00",
+      "last_verified": "2026-10-07T10:21:10",
       "odometer_km": 76021,
       "condition": "used"
     },
@@ -167,7 +167,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/1e811841f999.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:08:18",
+      "last_verified": "2026-10-07T10:21:28",
       "odometer_km": 40623,
       "condition": "used"
     },
@@ -178,8 +178,19 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/bf29560aa0e7.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:08:36",
+      "last_verified": "2026-10-07T10:21:46",
       "odometer_km": 14581,
+      "condition": "used"
+    },
+    {
+      "name": "MDX Platinum Elite A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H98SL803669",
+      "stock": "A260169",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/a7e11b3e0a5a.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39314700",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39314700?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:14:15",
+      "odometer_km": 16653,
       "condition": "used"
     },
     {
@@ -189,7 +200,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/a20008123ff2.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:08:56",
+      "last_verified": "2026-10-07T10:22:04",
       "odometer_km": 43699,
       "condition": "used"
     },
@@ -200,8 +211,19 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/fbadaf85af37.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:09:15",
+      "last_verified": "2026-10-07T10:22:25",
       "odometer_km": 50877,
+      "condition": "used"
+    },
+    {
+      "name": "RDX A-Spec AWD2024 Acura",
+      "vin": "5J8TC2H65RL804851",
+      "stock": "A262051",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/26114a7b78d8.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:14:35",
+      "odometer_km": 25091,
       "condition": "used"
     },
     {
@@ -211,7 +233,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/ebe2d42577db.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:09:34",
+      "last_verified": "2026-10-07T10:22:45",
       "odometer_km": 22697,
       "condition": "used"
     },
@@ -222,7 +244,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/169e3ccf0c2e.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:09:54",
+      "last_verified": "2026-10-07T10:23:05",
       "odometer_km": 9286,
       "condition": "used"
     },
@@ -233,7 +255,7 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/caba65b8b74d.html",
       "source_url": "https://www.northshorehonda.ca/en/used-inventory/acura/tlx/2022-acura-tlx-id39264289",
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/acura/tlx/2022-acura-tlx-id39264289?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T17:10:13",
+      "last_verified": "2026-10-07T10:23:25",
       "odometer_km": 86519,
       "condition": "used"
     },
@@ -393,6 +415,17 @@
     },
     {
       "name": "530i xDrive Sedan2026 BMW",
+      "vin": "WBA53FJ03TCW59592",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/1406ca65b07a.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/530i-xdrive/2026-bmw-530i-xdrive-id39171075",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/530i-xdrive/2026-bmw-530i-xdrive-id39171075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:14:55",
+      "odometer_km": 18319,
+      "condition": "used"
+    },
+    {
+      "name": "530i xDrive Sedan2026 BMW",
       "vin": "WBA53FJ0XTCW35483",
       "stock": "JL22B00",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/327bfd6a2ceb.html",
@@ -422,6 +455,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/530i/2026-bmw-530i-id39192173?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T17:15:47",
       "odometer_km": 18205,
+      "condition": "used"
+    },
+    {
+      "name": "iX xDrive50 w/Premium Enhanced Package2024 BMW",
+      "vin": "WB523CF08RCN74233",
+      "stock": "A215011",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/9dce0dafc59a.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:15:14",
+      "odometer_km": 41875,
       "condition": "used"
     },
     {
@@ -878,6 +922,17 @@
       "condition": "used"
     },
     {
+      "name": "Escape Titanium - 4WD2016 Ford",
+      "vin": "1FMCU9J99GUC31416",
+      "stock": "H126182",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/9e0e7da5cda8.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/ford/escape/2016-ford-escape-id39289809",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/ford/escape/2016-ford-escape-id39289809?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:15:33",
+      "odometer_km": 121580,
+      "condition": "used"
+    },
+    {
       "name": "Escape SEL - 4WD2018 Ford",
       "vin": "1FMCU9HD6JUC82888",
       "stock": "H126129",
@@ -1141,6 +1196,28 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id39163750?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T17:37:06",
       "odometer_km": 23371,
+      "condition": "used"
+    },
+    {
+      "name": "GV80 2.5T Advanced2024 GENESIS",
+      "vin": "KMUHBDSB0RU163172",
+      "stock": "G116006",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/27117d189565.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/genesis/gv80/2024-genesis-gv80-id39314440",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/genesis/gv80/2024-genesis-gv80-id39314440?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:15:51",
+      "odometer_km": 44278,
+      "condition": "used"
+    },
+    {
+      "name": "GV80 3.5T Advanced w/Tech Pkg AWD 7P2025 GENESIS",
+      "vin": "KMUHCESC5SU282000",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/b9ba78c050d6.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39309123",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39309123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:16:09",
+      "odometer_km": 40698,
       "condition": "used"
     },
     {
@@ -1796,6 +1873,17 @@
     },
     {
       "name": "CR-V Hybrid EX-L AWD2026 Honda",
+      "vin": "2HKRS6H75TH223986",
+      "stock": "H126108",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/dcb228d3fc31.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39158430",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39158430?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:16:29",
+      "odometer_km": 4000,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2026 Honda",
       "vin": "2HKRS6H78TH208513",
       "stock": "H126127",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/3894318bd38a.html",
@@ -1838,6 +1926,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v/2018-honda-cr-v-id38953631?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T17:53:23",
       "odometer_km": 108276,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V LX AWD2018 Honda",
+      "vin": "2HKRW2H21JH111863",
+      "stock": "H261107",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/c94f99d77b33.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v/2018-honda-cr-v-id39314662",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/honda/cr-v/2018-honda-cr-v-id39314662?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:16:47",
+      "odometer_km": 59487,
       "condition": "used"
     },
     {
@@ -3330,6 +3429,17 @@
       "condition": "used"
     },
     {
+      "name": "Range Rover Sport P360 S2026 Land Rover",
+      "vin": "SAL1J9EU6TA628024",
+      "stock": "MB62B00",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/982696feaf68.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id39314822",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id39314822?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:17:06",
+      "odometer_km": 16026,
+      "condition": "used"
+    },
+    {
       "name": "Range Rover Velar P250 Dynamic SE2024 Land Rover",
       "vin": "SALYL2EX1RA375052",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/5fccac301bd7.html",
@@ -3777,6 +3887,17 @@
       "condition": "used"
     },
     {
+      "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
+      "vin": "W1K5J4HB5SN536664",
+      "stock": "H315039",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/ecaa9fbd6ce5.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id39314710",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id39314710?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:17:26",
+      "odometer_km": 41526,
+      "condition": "used"
+    },
+    {
       "name": "CLA250 4MATIC2026 Mercedes-Benz",
       "vin": "W1K5J4HB2TN567565",
       "stock": "MB32B00",
@@ -4137,6 +4258,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39237668?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:58:43",
       "odometer_km": 23922,
+      "condition": "used"
+    },
+    {
+      "name": "GLC300 4MATIC Coupe2023 Mercedes-Benz",
+      "vin": "W1N0J8EBXPG122185",
+      "stock": "MB11816",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/71f41fb37c84.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39297844",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39297844?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:17:44",
+      "odometer_km": 39574,
       "condition": "used"
     },
     {
@@ -5093,6 +5225,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/z/2024-nissan-z-id39061207?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:26:01",
       "odometer_km": 3834,
+      "condition": "used"
+    },
+    {
+      "name": "Z Performance Manual2024 Nissan",
+      "vin": "JN1BZ4BH0RM366090",
+      "stock": "MB52A00",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/e623a6e2e679.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/z/2024-nissan-z-id39314798",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/nissan/z/2024-nissan-z-id39314798?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:18:02",
+      "odometer_km": 1097,
       "condition": "used"
     },
     {
@@ -6358,6 +6501,17 @@
       "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T20:03:39",
       "odometer_km": 45503,
+      "condition": "used"
+    },
+    {
+      "name": "Model 3 Performance AWD2025 Tesla",
+      "vin": "5YJ3E1ET0SF950063",
+      "stock": "A22F004",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/e5b80a2d50ae.html",
+      "source_url": "https://www.northshorehonda.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39314702",
+      "dealer_url": "https://www.northshorehonda.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39314702?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T10:18:20",
+      "odometer_km": 18785,
       "condition": "used"
     },
     {

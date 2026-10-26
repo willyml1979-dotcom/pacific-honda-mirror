@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-10-26T06:54:29",
-  "vehicle_count": 1284,
+  "generated_at": "2026-10-26T09:17:34",
+  "vehicle_count": 1287,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -484,12 +484,6 @@
       "condition": "used"
     },
     {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/aed185478354.html",
-      "condition": "used"
-    },
-    {
       "name": "TTS 2.0T quattro 6sp S tronic Cpe2016 Audi",
       "vin": "TRUC1AFV2G1031277",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/8833bf96bbc6.html",
@@ -555,6 +549,12 @@
       "name": "i4 M50 xDrive2024 BMW",
       "vin": "WBY33AW05RFR68265",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/73bd0d678bed.html",
+      "condition": "used"
+    },
+    {
+      "name": "i4 xDrive40 Gran Coupe2025 BMW",
+      "vin": "WBY43HD09SFT91911",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/2c5664ef8b3d.html",
       "condition": "used"
     },
     {
@@ -1249,6 +1249,12 @@
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
       "vin": "3GTUUEE81RG331664",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/e31997177a25.html",
+      "condition": "used"
+    },
+    {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Elevation2024 GMC",
+      "vin": "3GTUUCE81RG371389",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/162fccefc443.html",
       "condition": "used"
     },
     {
@@ -2388,12 +2394,6 @@
       "name": "Range Rover Sport P400 Dynamic HSE2024 Land Rover",
       "vin": "SAL1M9FU1RA189099",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/b11d19df7413.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/6196e9ca847d.html",
       "condition": "used"
     },
     {
@@ -3543,6 +3543,12 @@
       "condition": "used"
     },
     {
+      "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "W1NKM4HB9PF032892",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/7719250b54dd.html",
+      "condition": "used"
+    },
+    {
       "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
       "vin": "W1NKM4HB5RF180735",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/63046741ce50.html",
@@ -4111,6 +4117,12 @@
       "condition": "used"
     },
     {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/277dff526b65.html",
+      "condition": "used"
+    },
+    {
       "name": "Outlander ES S-AWC2023 Mitsubishi",
       "vin": "JA4J4UA85PZ616099",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/2c8df4bd475e.html",
@@ -4448,6 +4460,12 @@
       "name": "Sentra SV2025 Nissan",
       "vin": "3N1AB8CV7SY225466",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/c22f2010aae1.html",
+      "condition": "used"
+    },
+    {
+      "name": "Sentra SR CVT2025 Nissan",
+      "vin": "3N1AB8DV4SY222622",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/ad6998c18f16.html",
       "condition": "used"
     },
     {
@@ -4884,12 +4902,6 @@
       "name": "Crosstrek Touring CVT2026 Subaru",
       "vin": "JF2GUHDCXT8234885",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/761cfc080277.html",
-      "condition": "used"
-    },
-    {
-      "name": "Crosstrek Convenience CVT2026 Subaru",
-      "vin": "JF2GUHBC8T8233771",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/1000342d2e82.html",
       "condition": "used"
     },
     {
@@ -5710,6 +5722,12 @@
       "name": "ID.4 Pro S2024 Volkswagen",
       "vin": "1V29SPE84RC022540",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/c339fb710eb2.html",
+      "condition": "used"
+    },
+    {
+      "name": "Jetta GLI 2.0T 7Sp at DSG w/Tip2022 Volkswagen",
+      "vin": "3VW2T7BU5NM029701",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/25763bf9ac10.html",
       "condition": "used"
     },
     {

@@ -1,6 +1,6 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-10-26T00:37:27",
+  "generated_at": "2026-10-26T06:54:29",
   "vehicle_count": 1284,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -6090,12 +6090,6 @@
     },
     {
       "name": "Civic Hybrid Sport2027 Honda",
-      "vin": "2HGFE4F81VH000240",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/d6d733027623.html",
-      "condition": "new"
-    },
-    {
-      "name": "Civic Hybrid Sport2027 Honda",
       "vin": "2HGFE4F80VH000259",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/9575f0583d48.html",
       "condition": "new"
@@ -6104,12 +6098,6 @@
       "name": "Civic Hybrid Sport Touring2027 Honda",
       "vin": "2HGFE4F96VH000162",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/555fd066b275.html",
-      "condition": "new"
-    },
-    {
-      "name": "Civic Hybrid Sport Touring2027 Honda",
-      "vin": "2HGFE4F94VH000452",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/05302def75ff.html",
       "condition": "new"
     },
     {
@@ -6625,13 +6613,13 @@
     {
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
       "vin": "2HKRS6H76VH200381",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/da04761ae43c.html",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/9a2c2c5712ad.html",
       "condition": "new"
     },
     {
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
-      "vin": "2HKRS6H76VH200381",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/9a2c2c5712ad.html",
+      "vin": "2HKRS6H76VH200378",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/6397bb6cdadd.html",
       "condition": "new"
     },
     {
@@ -7517,6 +7505,12 @@
       "condition": "new"
     },
     {
+      "name": "Odyssey Black Edition2027 Honda",
+      "vin": "5FNRL6H08VB500695",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/728c6b122c00.html",
+      "condition": "new"
+    },
+    {
       "name": "Odyssey Touring2027 Honda",
       "vin": "5FNRL6H85VB500577",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/0d53656f588d.html",
@@ -7748,6 +7742,12 @@
       "name": "Pilot TOURING2026 Honda",
       "vin": "5FNYG1H74TB506247",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/6250eaa9cfc7.html",
+      "condition": "new"
+    },
+    {
+      "name": "Pilot TRAILSPORT2026 Honda",
+      "vin": "5FNYG1H61TB505645",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/9103aa524ba1.html",
       "condition": "new"
     },
     {

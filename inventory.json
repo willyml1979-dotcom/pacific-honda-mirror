@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-11-18T09:03:34",
-  "vehicle_count": 1371,
+  "generated_at": "2026-11-18T12:30:27",
+  "vehicle_count": 1372,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/eab1a14e1690.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/a20008123ff2.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/caba65b8b74d.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/d0b66e5bc9bf.html",
       "condition": "used"
     },
     {
@@ -1247,12 +1259,6 @@
       "name": "GV70 2.5T Advanced2025 GENESIS",
       "vin": "KMUMADTB5SU193595",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/d829843320de.html",
-      "condition": "used"
-    },
-    {
-      "name": "GV70 2.5T Advanced Plus AWD2025 GENESIS",
-      "vin": "KMUMADTB5SU216664",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/used/95dd76cc2e9a.html",
       "condition": "used"
     },
     {

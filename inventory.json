@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-11-17T13:47:43",
-  "vehicle_count": 1399,
+  "generated_at": "2026-11-17T23:35:42",
+  "vehicle_count": 1392,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6678,6 +6678,12 @@
     },
     {
       "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F87VH001229",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/4d8862c4e7c6.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
       "vin": "2HGFE4F89VH001183",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/1778cd53fdb0.html",
       "condition": "new"
@@ -6722,12 +6728,6 @@
       "name": "Civic Hybrid Sport2027 Honda",
       "vin": "2HGFE4F8XVH001189",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/3931ce193839.html",
-      "condition": "new"
-    },
-    {
-      "name": "Civic Hybrid Sport2027 Honda",
-      "vin": "2HGFE4F86VH000928",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/f4f42e6f6ff1.html",
       "condition": "new"
     },
     {
@@ -6810,6 +6810,12 @@
     },
     {
       "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F21VH100354",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/782329b0d42a.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2027 Honda",
       "vin": "2HGFE2F28VH100013",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/afff66686a4f.html",
       "condition": "new"
@@ -6848,6 +6854,12 @@
       "name": "Civic LX2027 Honda",
       "vin": "2HGFE2F2XVH100899",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/3ea31aa32ebd.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic LX2027 Honda",
+      "vin": "2HGFE2F23VH101442",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/465d5f70e675.html",
       "condition": "new"
     },
     {
@@ -6960,12 +6972,6 @@
     },
     {
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
-      "vin": "2HKRS6H58TH236729",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/3719277d3aac.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
       "vin": "2HKRS6H52TH239576",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/03fe3e2d9221.html",
       "condition": "new"
@@ -6974,12 +6980,6 @@
       "name": "CR-V Hybrid SPORT HYBRID2026 Honda",
       "vin": "2HKRS6H59TH251420",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/c1e60bf9eccb.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid TOURING HYBRID2026 Honda",
-      "vin": "2HKRS6H94TH248279",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/089ea7ee9ed2.html",
       "condition": "new"
     },
     {
@@ -6992,6 +6992,12 @@
       "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
       "vin": "2HKRS6H78TH242791",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/ec071dceb56f.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2026 Honda",
+      "vin": "2HKRS6H74TH249754",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/12ed732893ac.html",
       "condition": "new"
     },
     {
@@ -7028,12 +7034,6 @@
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H9XVH202359",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/5a38ce60d57d.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
-      "vin": "2HKRS6H79VH201718",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/896445d43b5e.html",
       "condition": "new"
     },
     {
@@ -7188,6 +7188,12 @@
     },
     {
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
+      "vin": "2HKRS6H75VH202719",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/4df80aa2c713.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
       "vin": "2HKRS6H71VH202720",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/36352a852ce0.html",
       "condition": "new"
@@ -7256,12 +7262,6 @@
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H98VH204188",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/d469d928a147.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
-      "vin": "2HKRS6H96VH204190",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/493643b2c990.html",
       "condition": "new"
     },
     {
@@ -7376,12 +7376,6 @@
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H93VH206317",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/06c7bffbe7a1.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
-      "vin": "2HKRS6H98VH206328",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/5dbf9e3b3528.html",
       "condition": "new"
     },
     {
@@ -7644,12 +7638,6 @@
     },
     {
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
-      "vin": "2HKRS6H94VH209307",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/a9a3aa2af60d.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H91VH206476",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/cf853148479e.html",
       "condition": "new"
@@ -7682,12 +7670,6 @@
       "name": "CR-V Hybrid EX-L HYBRID2027 Honda",
       "vin": "2HKRS6H77VH209056",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/23a1f342e309.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V SPORT2026 Honda",
-      "vin": "2HKRS4H56TH104377",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/88505620d294.html",
       "condition": "new"
     },
     {
@@ -7742,12 +7724,6 @@
       "name": "CR-V SPORT2026 Honda",
       "vin": "2HKRS4H57TH112830",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/527720b0e045.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V SPORT2026 Honda",
-      "vin": "2HKRS4H5XTH112823",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/7021b29b0a4c.html",
       "condition": "new"
     },
     {
@@ -7832,12 +7808,6 @@
       "name": "CR-V SPORT2026 Honda",
       "vin": "2HKRS4H54TH118004",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/5cd09c39dc24.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V LX AWD2026 Honda",
-      "vin": "2HKRS4H25TH117756",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/d11a25d079bc.html",
       "condition": "new"
     },
     {
@@ -8078,12 +8048,6 @@
       "name": "HR-V LX 4WD2027 Honda",
       "vin": "3CZRZ2H38VM107187",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/f4ae8551925d.html",
-      "condition": "new"
-    },
-    {
-      "name": "HR-V LX 4WD2027 Honda",
-      "vin": "3CZRZ2H33VM102026",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/0ea998fabc2e.html",
       "condition": "new"
     },
     {
@@ -8354,12 +8318,6 @@
       "name": "Passport Trailsport Touring2027 Honda",
       "vin": "5FNYF9H80VB500359",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/7584651214d4.html",
-      "condition": "new"
-    },
-    {
-      "name": "Passport Trailsport Touring2027 Honda",
-      "vin": "5FNYF9H89VB500019",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/7b1d47113ec2.html",
       "condition": "new"
     },
     {

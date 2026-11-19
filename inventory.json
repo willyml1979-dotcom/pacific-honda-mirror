@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Honda",
-  "generated_at": "2026-11-18T12:30:27",
-  "vehicle_count": 1372,
+  "generated_at": "2026-11-18T19:32:55",
+  "vehicle_count": 1370,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6170,12 +6170,6 @@
     },
     {
       "name": "Accord Hybrid TOURING2026 Honda",
-      "vin": "1HGCY2F83TA801777",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/b406245e925e.html",
-      "condition": "new"
-    },
-    {
-      "name": "Accord Hybrid TOURING2026 Honda",
       "vin": "1HGCY2F85TA801831",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/75baf79828e6.html",
       "condition": "new"
@@ -6532,6 +6526,12 @@
       "name": "Civic Hybrid Sport2027 Honda",
       "vin": "2HGFE4F80VH000925",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/38ef4dcf5889.html",
+      "condition": "new"
+    },
+    {
+      "name": "Civic Hybrid Sport2027 Honda",
+      "vin": "2HGFE4F86VH001187",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/25d98b067daf.html",
       "condition": "new"
     },
     {
@@ -7166,12 +7166,6 @@
     },
     {
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
-      "vin": "2HKRS6H99VH204166",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/8ae2f0ac4d4c.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H99VH204619",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/e9ac19fd1590.html",
       "condition": "new"
@@ -7508,12 +7502,6 @@
     },
     {
       "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
-      "vin": "2HKRS6H94VH209307",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/a9a3aa2af60d.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V Hybrid TOURING HYBRID2027 Honda",
       "vin": "2HKRS6H91VH206476",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/cf853148479e.html",
       "condition": "new"
@@ -7604,12 +7592,6 @@
     },
     {
       "name": "CR-V SPORT2026 Honda",
-      "vin": "2HKRS4H5XTH112823",
-      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/7021b29b0a4c.html",
-      "condition": "new"
-    },
-    {
-      "name": "CR-V SPORT2026 Honda",
       "vin": "2HKRS4H51TH112824",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/f594ac609e75.html",
       "condition": "new"
@@ -7678,6 +7660,12 @@
       "name": "CR-V SPORT2026 Honda",
       "vin": "2HKRS4H55TH117816",
       "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/4d81ef9a0926.html",
+      "condition": "new"
+    },
+    {
+      "name": "CR-V SPORT2026 Honda",
+      "vin": "2HKRS4H56TH117985",
+      "url": "https://willyml1979-dotcom.github.io/pacific-honda-mirror/new/2a3031f4d25c.html",
       "condition": "new"
     },
     {
